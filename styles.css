@@ -1,0 +1,41 @@
+h1{
+    font-family: "Playwrite VN", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
+
+button{
+  
+  margin: 20px;
+  padding: 30px 40px;
+  border: none;
+  border-radius: 10px 30px;
+  color: white;
+  cursor: pointer;
+
+}
+
+.button1{
+ 
+  background-color: hsl(211, 100%, 51%);
+  
+  }
+
+.button2{
+  
+  background-color: hsl(120, 78%, 45%);
+}
+
+.button3{
+  
+  background-color: hsl(0, 78%, 45%);
+}
+
+.button4{
+  
+  background-color: hsl(120, 9%, 15%);
+}
+
