@@ -22,4 +22,4 @@ JavaScript
 
 ## ⚒️Final work
 
-https://vinsmoke02.github.io/colorFlipper/
+ps://mr-prince2.github.io/colorFlipper/
