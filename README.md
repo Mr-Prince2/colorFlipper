@@ -1,8 +1,8 @@
-🎨 Color Flipper
+## 🎨 Color Flipper
 
 A fun and interactive Color Flipper App built using HTML, CSS, and JavaScript. It allows users to change the background color of the page by clicking on preset color buttons or a Random button to generate a new color each time.
 
-🚀 Features
+## 🚀 Features
 
 Three predefined color buttons (e.g., Red, Green, Blue)
 
@@ -12,7 +12,7 @@ Displays the current background color value
 
 Smooth and instant background updates
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML
 
@@ -20,6 +20,6 @@ CSS
 
 JavaScript
 
-⚒️Final work
+## ⚒️Final work
 
 https://vinsmoke02.github.io/colorFlipper/
